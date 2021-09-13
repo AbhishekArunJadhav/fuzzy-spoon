@@ -1,0 +1,17 @@
+Installation Guide Template: Who uses it?
+The Installation Plan provides installation and configuration procedures for every part of the system and describes the correct order for installing the component instances and performing basic configuration.
+
+What in an Installation Guide?
+An Installation Guide is a type of technical document that describes the steps required to install software, hardware, or any items that requires to be assembled, In this tutorial, we describe how to install a software product, such as a new Windows server, SAP products, or online web applications.
+
+Who Writes the Installation Guide?
+In general, an installation guide is written by a technical writer. Typically, they will work with system administrators and others involved in the installation process for technical information. For example, QA and BAs may also have input.
+
+Installation Guide Template (MS Word)
+You can use this Installation Guide template when installing software and for the preparation, training, and conversion from existing systems.
+
+Download: Click here to learn more about this installation guide template.
+
+Introduction
+The following Installation and Configuration Guide template provides instructions for installing components on computers that are intended to support and run your product.
+
